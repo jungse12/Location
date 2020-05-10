@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Are We There Yet jungse12</string>
+    <string name="dummy">Dummy</string>
+    <string name="provider">Provider:</string>
+    <string name="latitude">Latitude:</string>
+    <string name="longitude">Longitude:</string>
+    <string name="newlocation">New Location</string>
+    <string name="newButton">New</string>
+    <string name="eb2250">2250 Engineering</string>
+    <string name="sparty">Sparty</string>
+    <string name="home">Home</string>
+    <string name="dorm">Dorm</string>
+    <string name="palace">Palace</string>
+    <string name="exception">Failed to communicate with geolocation services</string>
+    <string name="couldnotfind">Unable to locate address</string>
+    <string name="route">Route</string>
+    <string name="save">Save</string>
+    <string name="title_hint">Title of Destination</string>
+    <string name="save_destination">Save Destination</string>
+    <string name="fav_destination">Save Destination As Favorite</string>
+    <string name="fav_destination_ask">Do you want to save current destination as Favorite?</string>
+    <string name="setAsFavorite">Set As Favorite</string>
+    <string name="fav">Favorite Destinations</string>
+
+    <string-array name="transportation">
+        <item>Driving</item>
+        <item>Walking</item>
+        <item>Bicycling</item>
+    </string-array>
+</resources>
